@@ -30,4 +30,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto é um desáfio do Frontend Mentor, o qr code component!
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://carlosherbertdev.github.io/qr-code-component-main/)
