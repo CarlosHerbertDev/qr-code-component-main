@@ -13,7 +13,7 @@ Desáfio do Frontend Mentor, qr code component<br/>
 <br>
 
   <p align= 'center'>
-  <img alt="Peojeto Site GTA" src="./design/desktop-preview.jpg" width='100%'>
+  <img alt="Qr code component" src="./design/desktop-preview.jpg" width='100%'>
   </p>
 
 
